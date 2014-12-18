@@ -1,0 +1,20 @@
+{
+  "name": "gulp-pyjade",
+  "version": "0.0.1",
+  "description": "Pyjade plugin for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel <htch.git@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.3"
+  },
+  "homepage": "https://github.com/htch/gulp-pyjade",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/htch/gulp-pyjade.git"
+  }
+}
